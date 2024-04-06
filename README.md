@@ -15,7 +15,8 @@ You can find dataset by this link: https://www.kaggle.com/competitions/titanic
 - Preprocessing
 - Training
 - Testing
+- Tuning hyperparameters
 - Comparing models
 
 #### Result:
-For this problem Random Forest performs best.
+For this problem Random Forest performs best with accuracy of 83.2% on test set.
